@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @poojarenake98
 - 👀 I’m interested in Software engineering and backend development. And love problem solving.
-- 🌱 I’m currently learning AWS, Spring related technologies.
+- 🌱 I’m currently learning AWS, Spring related technologies and also working on Problem Solving skills.
+- Always excited and ready to learn new skills 👩‍🎓
 - 📫 How to reach me --> <a href="renakepooja98@gmail.com">email</a>
 
 <!---
